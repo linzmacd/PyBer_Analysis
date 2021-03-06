@@ -2,7 +2,7 @@
 
 ## Purpose
 
-The purpose of this project was to analyze raw data from the PyBer ride-sharing app to highlight any differences between urban, suburban, and rural usage. 
+The purpose of this project was to analyze raw data from the PyBer ride-sharing app to highlight any differences between urban, suburban, and rural usage and make recommendataions to the PyBer Management Team.
 
 
 ## Results
