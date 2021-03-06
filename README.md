@@ -9,7 +9,6 @@ The purpose of this project was to analyze raw data from the PyBer ride-sharing 
 
 After merging ride data with city data we had a comprehensive data set on which to perform our analysis. First, we generated a chart comparing number of rides per city with average fare, with marker size representing the number of drivers:
 ![Fig1](analysis/Fig1.png)
-<img src="https://github.com/linzmacd/PyBer_Analysis/blob/main/analysis/Fig1.png" width=25% height=25%>
 
 We broke the data down by city type to observe diffences in ride counts, ride fares, and driver counts: 
 <img src="https://github.com/linzmacd/PyBer_Analysis/blob/main/analysis/Fig2.png" width=50% height=50%>
@@ -17,7 +16,7 @@ We broke the data down by city type to observe diffences in ride counts, ride fa
 <img src="https://github.com/linzmacd/PyBer_Analysis/blob/main/analysis/Fig4.png" width=50% height=50%>
 
 We then created several pie charts to visualize the share of fares, rides, and drivers by each city type:
-<img src="https://github.com/linzmacd/PyBer_Analysis/blob/main/analysis/Fig5.png" width=40% height=40%> <img src="https://github.com/linzmacd/PyBer_Analysis/blob/main/analysis/Fig6.png" width=40% height=40%> <img src="https://github.com/linzmacd/PyBer_Analysis/blob/main/analysis/Fig7.png" width=40% height=40%>
+<img src="https://github.com/linzmacd/PyBer_Analysis/blob/main/analysis/Fig5.png" width=33% height=33%> <img src="https://github.com/linzmacd/PyBer_Analysis/blob/main/analysis/Fig6.png" width=33% height=33%> <img src="https://github.com/linzmacd/PyBer_Analysis/blob/main/analysis/Fig7.png" width=33% height=33%>
 
 Next we grouped the data by city type to count the total number of rides and calculate the sum of the fares, the average fare, and the average fare per driver for each city type. The results are in the DataFrame below:  
 
