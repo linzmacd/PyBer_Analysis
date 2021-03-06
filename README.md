@@ -23,4 +23,4 @@ Based on the results, we can make several recommendations to the PyBer managemen
 
 1. While it makes more sense that there are more PyBer riders and drivers in urban areas simply because of population density, it would be financially beneficial to try to increase suburban and rural usage where rides are generally longer and thus more profitable.
 2. PyBer's next marketing campaign should be targeted at suburban and rural users, possibly offering promo codes/discounts to attact new users who - once they see how easy and convenient PyBer's ride-share service is - will become regular users.  
-3. PyBer can also try to lure some drivers to suburban and rural areas by showing them the disparity in average fare per driver, this would decrease the wait time for riders which is often a problem in more remote areas.
+3. PyBer can also try to lure some drivers to suburban and rural areas by showing them the disparity in average fare per driver; this would decrease the wait time for riders, a factor that is often a deterrent in more remote areas.
