@@ -11,9 +11,9 @@ After merging ride data with city data we had a comprehensive data set on which 
 ![Fig1](analysis/Fig1.png)
 
 We broke the data down by city type to observe diffences in ride counts, ride fares, and driver counts: 
-<img src="https://github.com/linzmacd/PyBer_Analysis/blob/main/analysis/Fig2.png" width=50% height=50%>
-<img src="https://github.com/linzmacd/PyBer_Analysis/blob/main/analysis/Fig3.png" width=50% height=50%>
-<img src="https://github.com/linzmacd/PyBer_Analysis/blob/main/analysis/Fig4.png" width=50% height=50%>
+<img src="https://github.com/linzmacd/PyBer_Analysis/blob/main/analysis/Fig2.png" width=48% height=50%>
+<img src="https://github.com/linzmacd/PyBer_Analysis/blob/main/analysis/Fig3.png" width=48% height=50%>
+<img src="https://github.com/linzmacd/PyBer_Analysis/blob/main/analysis/Fig4.png" width=48% height=50%>
 
 We then created several pie charts to visualize the share of fares, rides, and drivers by each city type:
 <img src="https://github.com/linzmacd/PyBer_Analysis/blob/main/analysis/Fig5.png" width=33% height=33%> <img src="https://github.com/linzmacd/PyBer_Analysis/blob/main/analysis/Fig6.png" width=33% height=33%> <img src="https://github.com/linzmacd/PyBer_Analysis/blob/main/analysis/Fig7.png" width=33% height=33%>
