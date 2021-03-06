@@ -7,7 +7,7 @@ The purpose of this project was to analyze raw data from the PyBer ride-sharing 
 
 ## Results
 
-After merging our ride data with our city data we had a comprehensive data set on which to perform our analysis. We grouped the data by city type to count the total number of rides and calculate the sum of the fares, the average fare, and the average fare per driver for each city type. The  Our results are in the DataFrame below:  
+After merging ride data with city data we had a comprehensive data set on which to perform our analysis. We grouped the data by city type to count the total number of rides and calculate the sum of the fares, the average fare, and the average fare per driver for each city type. The results are in the DataFrame below:  
 
 ![data_frame](analysis/data_frame.PNG)
 
